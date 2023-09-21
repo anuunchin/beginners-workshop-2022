@@ -1,5 +1,8 @@
 
 [runtime]
 log_level="WARNING"
+dlthub_telemetry = true
 
 
+[sources.chess]
+config_int = 0 # please set me up!
